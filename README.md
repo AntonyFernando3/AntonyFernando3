@@ -45,16 +45,16 @@ Cidade Atual: Francisco Morato - SP
 
 
 ## FORMAÇÕES
-Formado: Informática - Escola Modelo 
-Formado: Rede de Computadores - Senai Presidente Altino
-- Formado: Tecnologia da Informação e Comunicação - Senai Tecnologias Educacionais
-- Formado: Logica de programação - Senai tecnologias Educacionais
-- Formado: Sistemas operacionais - Fundação Bradesco
+- 👨🏻‍🎓Formado: Informática - Escola Modelo 
+- 👨🏻‍🎓Formado: Rede de Computadores - Senai Presidente Altino
+- 👨🏻‍🎓Formado: Tecnologia da Informação e Comunicação - Senai Tecnologias Educacionais
+- 👨🏻‍🎓Formado: Logica de programação - Senai tecnologias Educacionais
+- 👨🏻‍🎓Formado: Sistemas operacionais - Fundação Bradesco
 - 👨🏻‍🎓Formado: hTML Avançado - Fundação Bradesco
-👨🏻‍🎓Formado: Ferramentas Digitais - Recode
-👨🏻‍🎓Formado: Programação App Inventor - Recode
-👨🏻‍🎓Formado: Manutenção de Computadores - Escola Modelo
-👨🏻‍🎓Formado: Desenvolvimento Web Java - Senac Lapa Tito (3/6) 
-👨🏻‍🎓Formado: Desenvolvimento Web Java - Instituto Proa (3/6) 
-👨🏻‍🎓Formado: Educação Financeira - C6 Bank Institute (3/6) 
+- 👨🏻‍🎓Formado: Ferramentas Digitais - Recode
+- 👨🏻‍🎓Formado: Programação App Inventor - Recode
+- 👨🏻‍🎓Formado: Manutenção de Computadores - Escola Modelo
+- 👨🏻‍🎓Formado: Desenvolvimento Web Java - Senac Lapa Tito (3/6) 
+- 👨🏻‍🎓Formado: Desenvolvimento Web Java - Instituto Proa (3/6) 
+- 👨🏻‍🎓Formado: Educação Financeira - C6 Bank Institute (3/6) 
 
