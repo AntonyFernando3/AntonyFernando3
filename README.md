@@ -41,4 +41,4 @@
 - Formado: Manutenção de Computadores
 - Desenvolvimento Web Java (3/6)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
