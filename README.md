@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyFernando3&langs_count=8)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyFernando3&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyFernando3&langs_count=8) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyFernando3&show_icons=true&theme=white)
 
 ## TECNOLOGIAS QUE USO NO DIA A DIA
 
