@@ -36,6 +36,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-fernando-silva-96120b21a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
+## INFORMAÇÕES SOBRE MIM
+
 - Nome: Antony Fernando Ribas Rocha Silva
 - Idade: 18 Anos
 - Nascido: Osasco - SP
