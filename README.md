@@ -45,12 +45,11 @@ Cidade Atual: Francisco Morato - SP
 
 
 ## FORMAÇÕES
-
-👨🏻‍🎓Formado: Informática - Escola Modelo 
-👨🏻‍🎓Formado: Rede de Computadores - Senac Presidente Altino
-👨🏻‍🎓Formado: Tecnologia da Informação e Comunicação - Senac Tecnologias Educacionais
-👨🏻‍🎓Formado: Logica de programação - Senac tecnologias Educacionais
-👨🏻‍🎓Formado: Sistemas operacionais - Fundação Bradesco
+Formado: Informática - Escola Modelo 
+Formado: Rede de Computadores - Senai Presidente Altino
+- Formado: Tecnologia da Informação e Comunicação - Senai Tecnologias Educacionais
+- Formado: Logica de programação - Senai tecnologias Educacionais
+- Formado: Sistemas operacionais - Fundação Bradesco
 👨🏻‍🎓Formado: hTML Avançado - Fundação Bradesco
 👨🏻‍🎓Formado: Ferramentas Digitais - Recode
 👨🏻‍🎓Formado: Programação App Inventor - Recode
