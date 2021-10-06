@@ -39,9 +39,7 @@
 ## INFORMAÇÕES SOBRE MIM
 
 👨🏻Nome: Antony Fernando Ribas Rocha Silva
-
 👨🏻Idade: 18 Anos
-
 🏙️Cidade de Nascimento: Osasco - SP
 🏙️Cidade Atual: Francisco Morato - SP
 
