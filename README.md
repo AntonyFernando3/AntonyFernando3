@@ -43,6 +43,7 @@ Idade: 18 Anos
 Cidade de Nascimento: Osasco - SP
 Cidade Atual: Francisco Morato - SP
 
+
 ## FORMAÇÕES
 
 👨🏻‍🎓Formado: Informática - Escola Modelo 
