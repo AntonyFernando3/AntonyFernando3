@@ -52,7 +52,7 @@
 - 👨🏻‍🎓 Formado: Informática - Escola Modelo 
 - 👨🏻‍🎓 Formado: Rede de Computadores - Senai Presidente Altino
 - 👨🏻‍🎓 Formado: Tecnologia da Informação e Comunicação - Senai Tecnologias Educacionais
-- 👨🏻‍🎓 Formado: Logica de programação - Senai tecnologias Educacionais
+- 👨🏻‍🎓 Formado: Logica de programação - Senai Tecnologias Educacionais
 - 👨🏻‍🎓 Formado: Sistemas operacionais - Fundação Bradesco
 - 👨🏻‍🎓 Formado: HTML Avançado - Fundação Bradesco
 - 👨🏻‍🎓 Formado: Ferramentas Digitais - Recode
