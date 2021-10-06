@@ -50,7 +50,7 @@ Formado: Rede de Computadores - Senai Presidente Altino
 - Formado: Tecnologia da Informação e Comunicação - Senai Tecnologias Educacionais
 - Formado: Logica de programação - Senai tecnologias Educacionais
 - Formado: Sistemas operacionais - Fundação Bradesco
-👨🏻‍🎓Formado: hTML Avançado - Fundação Bradesco
+- 👨🏻‍🎓Formado: hTML Avançado - Fundação Bradesco
 👨🏻‍🎓Formado: Ferramentas Digitais - Recode
 👨🏻‍🎓Formado: Programação App Inventor - Recode
 👨🏻‍🎓Formado: Manutenção de Computadores - Escola Modelo
