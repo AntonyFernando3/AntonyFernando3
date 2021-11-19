@@ -7,6 +7,8 @@
 
 ## TECNOLOGIAS QUE USO NO DIA A DIA
 
+<br>
+
 <div style="display:inline_block"></br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -47,7 +49,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](.......)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
-
+<br>
 
 ## INFORMAÇÕES SOBRE MIM
 
