@@ -53,15 +53,18 @@
 
 ## INFORMAÇÕES SOBRE MIM
 
+<br>
 
 - 👨🏻 Nome: Antony Fernando Ribas Rocha Silva
 - 👨🏻 Idade: 18 Anos
 - 🏙️ Cidade de Nascimento: Osasco - SP
 - 🏙️ Cidade Atual: Francisco Morato - SP
 
+<br>
 
 ## FORMAÇÕES
 
+<br>
 
 - 👨🏻‍🎓 Formado: Informática - Escola Modelo 
 - 👨🏻‍🎓 Formado: Rede de Computadores - Senai Presidente Altino
@@ -76,4 +79,4 @@
 - 👨🏻‍🎓 Formado: Desenvolvimento Web Java - Instituto Proa (5/6) 
 - 👨🏻‍🎓 Formado: Educação Financeira - C6 Bank Institute (5/6)
 
-
+<br>
