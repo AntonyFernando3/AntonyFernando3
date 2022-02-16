@@ -75,8 +75,7 @@
 - 👨🏻‍🎓 Formado: Ferramentas Digitais - Recode
 - 👨🏻‍🎓 Formado: Programação App Inventor - Recode
 - 👨🏻‍🎓 Formado: Manutenção de Computadores - Escola Modelo
-- 👨🏻‍🎓 Formado: Desenvolvimento Web Java - Senac Lapa Tito (5/6) 
-- 👨🏻‍🎓 Formado: Desenvolvimento Web Java - Instituto Proa (5/6) 
-- 👨🏻‍🎓 Formado: Educação Financeira - C6 Bank Institute (5/6)
-
+- 👨🏻‍🎓 Formado: Desenvolvimento Web Java - Senac Lapa Tito 
+- 👨🏻‍🎓 Formado: Desenvolvimento Web Java - Instituto Proa  
+- 👨🏻‍🎓 Formado: Educação Financeira - C6 Bank Institute 
 <br>
