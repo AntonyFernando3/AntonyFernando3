@@ -1,8 +1,4 @@
-
-
-<img src="https://github.com/AntonyFernando3/AntonyFernando3/blob/main/capaparaogithubnova.png">
-
-
+![](https://github.com/AntonyFernando3/AntonyFernando3/blob/main/Video-GitHub.gif)
 
 
 <br><br>
