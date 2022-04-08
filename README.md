@@ -6,49 +6,46 @@
 
 ## FERRAMENTAS DE PROGRAMAÇÃO
 
-
-<br><br>
+<br>
 
 <div style="display:inline_block"></br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80"/>             
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="80"/>          
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" height="80" />        
-<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="80" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>             
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>          
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" height="50" />        
+<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
 
-          
-
-
-<br><br>
+        
+<br>
 
 
 ## FERRAMENTAS DIGITAIS
 
 
-<br><br>
+<br>
  
 
-<img src="https://seeklogo.com/images/M/microsoft-powerpoint-logo-5377A49D19-seeklogo.com.png" height="80"/>
-<img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" height="80"/>
-<img src="https://seeklogo.com/images/M/microsoft-word-logo-E648C182A5-seeklogo.com.png" height="80"/>
-<img src="https://seeklogo.com/images/M/microsoft-onenote-logo-633B9A113E-seeklogo.com.png" height="80"/>
-<img src="https://seeklogo.com/images/M/microsoft-teams-logo-E5BF810325-seeklogo.com.png" height="80"/>
-<img src="https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="80"/>
+<img src="https://seeklogo.com/images/M/microsoft-powerpoint-logo-5377A49D19-seeklogo.com.png" height="50"/>
+<img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" height="50"/>
+<img src="https://seeklogo.com/images/M/microsoft-word-logo-E648C182A5-seeklogo.com.png" height="50"/>
+<img src="https://seeklogo.com/images/M/microsoft-onenote-logo-633B9A113E-seeklogo.com.png" height="50"/>
+<img src="https://seeklogo.com/images/M/microsoft-teams-logo-E5BF810325-seeklogo.com.png" height="50"/>
+<img src="https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/>
           
 
-<br><br>
+<br>
 
 
 ## OUTRAS FERRAMENTAS
 
 
-<br><br>
+<br>
 
 
 <img src="https://yt3.ggpht.com/ytc/AKedOLSKQwlp06ggtmIY28XQdpy9FkCzLaoi_fFfI0Rm=s900-c-k-c0x00ffffff-no-rj" height="80">
@@ -57,25 +54,25 @@
 <img src="https://vejacomofeito.com/wp-content/uploads/2021/06/1622900202_Como-copiar-ou-clonar-uma-maquina-virtual-do-Virtualbox-para.jpg" height="80">
 
 
-<br><br>
+<br>
 
 
 ## REDES SOCIAIS
 
 
-<br><br>
+<br>
 
 
-<a href="https://www.facebook.com/antonytimaotico"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" height="80"> </a>
-<a href="https://m.me/antonytimaotico"> <img src="https://cdn-icons-png.flaticon.com/512/733/733548.png" height="80"> </a>
-<a href="https://www.instagram.com/antony_fernando_Silva?r=nametag"> <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="80"> </a>
-<a href="https://wa.me/qr/XOHJBMJSJ5PHF1"> <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="80"> </a>
-<a href="https://www.linkedin.com/in/antony-fernando-silva-96120b21a"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649451016~hmac=d67838bd03ab85c046fd99102122d190" height="80"> </a>
-<a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="90"> </a>
-<a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="80"> </a>
+<a href="https://www.facebook.com/antonytimaotico"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" height="50"> </a>
+<a href="https://m.me/antonytimaotico"> <img src="https://cdn-icons-png.flaticon.com/512/733/733548.png" height="50"> </a>
+<a href="https://www.instagram.com/antony_fernando_Silva?r=nametag"> <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="50"> </a>
+<a href="https://wa.me/qr/XOHJBMJSJ5PHF1"> <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="50"> </a>
+<a href="https://www.linkedin.com/in/antony-fernando-silva-96120b21a"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649451016~hmac=d67838bd03ab85c046fd99102122d190" height="50"> </a>
+<a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="50"> </a>
+<a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50"> </a>
 
 
-<br><br>
+<br>
 
 
 ## INFORMAÇÕES SOBRE A MINHA PESSOA
