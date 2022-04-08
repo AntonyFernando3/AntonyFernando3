@@ -71,7 +71,7 @@
 <a href="https://m.me/antonytimaotico"> <img src="https://cdn-icons-png.flaticon.com/512/733/733548.png" height="80"> </a>
 <a href="https://www.instagram.com/antony_fernando_Silva?r=nametag"> <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="80"> </a>
 <a href="https://wa.me/qr/XOHJBMJSJ5PHF1"> <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="80"> </a>
-<a href="https://www.linkedin.com/in/antony-fernando-silva-96120b21a"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649446093~hmac=c3865cd1b7970d91dbe4b6721559901f" height="80"> </a>
+<a href="https://www.linkedin.com/in/antony-fernando-silva-96120b21a"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1649451016~hmac=d67838bd03ab85c046fd99102122d190" height="80"> </a>
 <a href="#"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="90"> </a>
 <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="80"> </a>
 
