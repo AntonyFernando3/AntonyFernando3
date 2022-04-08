@@ -1,4 +1,5 @@
 
+
 <img src="https://github.com/AntonyFernando3/AntonyFernando3/blob/main/capaparaogithubnova.png">
 
 <br><br>
@@ -22,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="80" />
 
           
-</div>
+
 
 <br><br>
 
@@ -131,3 +132,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyFernando3&langs_count=8) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyFernando3&show_icons=true&theme=white) 
+
+
+
+
+</div>
