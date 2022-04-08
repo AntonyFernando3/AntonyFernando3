@@ -1,5 +1,5 @@
-![Video de Apresentação](https://github.com/AntonyFernando3/AntonyFernando3/blob/main/Video-GitHub.gif)
-![](https://github.com/AntonyFernando3/AntonyFernando3/blob/main/Design%20sem%20nome.png)
+![Gif de Apresentação](https://github.com/AntonyFernando3/AntonyFernando3/blob/main/capaparaogithubnova.gif)
+
 
 <br><br>
 
