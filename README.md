@@ -1,4 +1,4 @@
-![Gif de Apresentação](https://github.com/AntonyFernando3/AntonyFernando3/blob/main/capaparaogithubnova.gif)
+![Gif de Apresentação](https://github.com/AntonyFernando3/AntonyFernando3/blob/main/Capa-Github.gif)
 
 
 <br><br>
