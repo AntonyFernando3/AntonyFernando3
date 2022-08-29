@@ -7,6 +7,7 @@
 
 <br>
 <br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
@@ -16,6 +17,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" height="50" />        
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
+
 <br>
 <br>
 
@@ -23,6 +25,7 @@
 
 <br>
 <br>
+
 <img src="https://seeklogo.com/images/M/microsoft-powerpoint-logo-5377A49D19-seeklogo.com.png" height="50"/>
 <img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" height="50"/>
 <img src="https://seeklogo.com/images/M/microsoft-word-logo-E648C182A5-seeklogo.com.png" height="50"/>
@@ -30,6 +33,7 @@
 <img src="https://seeklogo.com/images/M/microsoft-teams-logo-E5BF810325-seeklogo.com.png" height="50"/>
 <img src="https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/>
+
 <br>
 <br>
 
