@@ -37,7 +37,7 @@
 <br>
 <br>
 
-## OUTRAS FERRAMENTAS
+## FERRAMENTAS DE SIMULAÇÃO E APRENDIZAGEM
 
 <br>
 <br>
