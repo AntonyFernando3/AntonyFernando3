@@ -104,22 +104,20 @@
 
 <br>
 <br>
-<img src="https://i.promobit.com.br/268/687551020216058046662025179492.png" height="60">
-<img src="https://media.glassdoor.com/sqll/2787862/recode-squarelogo-1645686780544.png" height="60">
-<img src="https://www.comotrabalhar.org/wp-content/uploads/2017/12/logo-SENAI-SP.png" height="60">
-<img src="https://scontent.fcgh11-1.fna.fbcdn.net/v/t1.6435-9/101847092_3001723589921921_8239884239001092096_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yFNfMn0JsXAAX9BCkdI&_nc_ht=scontent.fcgh11-1.fna&oh=00_AT_emqCYnqIYhOz5ZFqPxy073Q2RiMMHBHzg0YtXlh4njw&oe=63330C2C" height="60">
-<img src="https://yt3.ggpht.com/qMPyLWsg6kipqVXeVUmusXfNABJGAWignNcYfS7jlEXLsD44PU3dVSFlf8e4sMXTAJKExbDREw=s900-c-k-c0x00ffffff-no-rj" height="60">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MzdpjvCw1ybMg_HOpyGOEyt0qClYcbGtXJn_n3upjPMV4n2VM7Czy6KOxM85HZtWjZc&usqp=CAU" height="60">
-<img src="https://yt3.ggpht.com/ytc/AKedOLSs8gzOPsns7jFDcfX9Wa0k8jkO_NOtJ781d2PC=s900-c-k-c0x00ffffff-no-rj" height="60">
-<img src="https://media.glassdoor.com/sqll/2088677/letrus-squarelogo-1588077623326.png" height="60">
-<img src="https://scontent.fcgh11-1.fna.fbcdn.net/v/t39.30808-6/277677595_364601755675694_5627984011845976631_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=er-7tYHmwVYAX_RCR95&_nc_ht=scontent.fcgh11-1.fna&oh=00_AT-JJ843Yo9hkb9SzMQZlzcQt1VyfaGQXYUmjVs6B7BZGw&oe=631071E7" height="60">
+
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/fiap.jpg" height="60"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/recode.jpg" height="60"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/senai.jpg" height="60"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/alura.png" height="60"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/institutoproa.png" height="60"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/fundacaobradesco.png" height="60"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/letrus.jpg" height="60"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/senac.png" height="60"/>       
 
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyFernando3&langs_count=8) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyFernando3&show_icons=true&theme=white) 
-
-
 
 
 </div>
