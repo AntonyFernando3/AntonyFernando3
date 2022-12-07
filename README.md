@@ -31,15 +31,19 @@
 
 <br>
 <br>
-
+  
+  
 <img src="https://seeklogo.com/images/M/microsoft-powerpoint-logo-5377A49D19-seeklogo.com.png" height="50"/>
 <img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" height="50"/>
 <img src="https://seeklogo.com/images/M/microsoft-word-logo-E648C182A5-seeklogo.com.png" height="50"/>
 <img src="https://seeklogo.com/images/M/microsoft-onenote-logo-633B9A113E-seeklogo.com.png" height="50"/>
 <img src="https://seeklogo.com/images/M/microsoft-teams-logo-E5BF810325-seeklogo.com.png" height="50"/>
 <img src="https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/microsoftonedrive.png" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/googledrive.png" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/>
 
+  
 <br>
 <br>
 
@@ -47,6 +51,8 @@
 
 <br>
 <br>
+  
+  
 <img src="https://yt3.ggpht.com/ytc/AKedOLSKQwlp06ggtmIY28XQdpy9FkCzLaoi_fFfI0Rm=s900-c-k-c0x00ffffff-no-rj" height="80">
 <img src="https://www.cursou.com.br/wp-content/uploads/2021/09/Cisco-Packet-Tracer.jpg" height="80">
 <img src="https://yt3.ggpht.com/dW6to0x5Crmeh7yi-YPLcQRqVrBtx2BSh8eoKTJbE8NbjloQ0sqlmdszIlxokJU_97-ndOt_=s900-c-k-c0x00ffffff-no-rj" height="80">
