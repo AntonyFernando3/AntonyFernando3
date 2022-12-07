@@ -50,6 +50,7 @@
 <img src="https://yt3.ggpht.com/dW6to0x5Crmeh7yi-YPLcQRqVrBtx2BSh8eoKTJbE8NbjloQ0sqlmdszIlxokJU_97-ndOt_=s900-c-k-c0x00ffffff-no-rj" height="80">
 <img src="https://vejacomofeito.com/wp-content/uploads/2021/06/1622900202_Como-copiar-ou-clonar-uma-maquina-virtual-do-Virtualbox-para.jpg" height="80">
 <img src="https://seeklogo.com/images/T/tinkercad-logo-725CB8E552-seeklogo.com.png" height="80">
+<img src="https://dgadelha.github.io/Portugol-Webstudio/assets/logo.svg" height="50">
 <br>
 <br>
 
