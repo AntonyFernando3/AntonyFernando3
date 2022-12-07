@@ -10,7 +10,19 @@
 
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/html.svg" height="50"/>
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/css.svg" height="50"/>
-
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/javascript.svg" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/java.svg" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/reactjs.png" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/nodejs.png" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/jquery.png" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/mysql.svg" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/googlecloud.png" height="50"/> 
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/bootstrap.svg" height="50"/> 
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/intellij.png" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/vscode.png" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/eclipse.png" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/figma.svg" height="50"/>  
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
