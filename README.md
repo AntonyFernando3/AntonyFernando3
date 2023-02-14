@@ -14,6 +14,7 @@
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/java.svg" height="50"/>
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/reactjs.png" height="50"/>
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/nodejs.png" height="50"/>
+<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/php.png" height="50"/> 
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/jquery.png" height="50"/>
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/mysql.svg" height="50"/>
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/googlecloud.png" height="50"/> 
@@ -22,7 +23,6 @@
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/vscode.png" height="50"/>
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/eclipse.png" height="50"/>
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/figma.svg" height="50"/>  
-<img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/php.png" height="70"/> 
 
 <br>
 <br>
