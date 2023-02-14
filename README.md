@@ -22,7 +22,7 @@
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/vscode.png" height="50"/>
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/eclipse.png" height="50"/>
 <img src="https://github.com/AntonyFernando3/Icons-Images/blob/main/figma.svg" height="50"/>  
-<img src="https://github.com/AntonyFernando3/Icons-Images/blog/main/php.png" height="50" /> 
+<img src="https://github.com/AntonyFernando3/Icons-Images/blog/main/php.png" height="50"/> 
 
 <br>
 <br>
