@@ -84,7 +84,8 @@
 - 👨🏻‍🎓 Informática - Escola Modelo.
 - 👨🏻‍🎓 Manutenção de Computadores - Escola Modelo.
 - 👨🏻‍🎓 Rede de Computadores - Senai Osasco.
-- 👨🏻‍🎓 Implantação de Serviços em Nuvem "Google Cloud Foundations" - Senai Osasco.
+- 👨🏻‍🎓 Implantação de Serviços em Nuvem Google Cloud Foundations - Senai Osasco.
+- 👨🏻‍🎓 Implantação de Serviços de Inteligência Artificial em Nuvem Google Cloud AI Foundations - Senai Osasco.
 - 👨🏻‍🎓 Tecnologia da Informação e Comunicação - Senai Tecnologias Educacionais.
 - 👨🏻‍🎓 Logica de programação - Senai Tecnologias Educacionais.
 - 👨🏻‍🎓 Sistemas operacionais - Fundação Bradesco.
