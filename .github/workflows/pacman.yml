@@ -10,11 +10,11 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Passo essencial: Dá acesso ao robô para mexer no seu repositório
+      # Passo 1: Dá acesso ao robô para mexer no seu repositório
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Gera o gráfico do Pacman (Snake) na versão mais recente
+      # Passo 2: Gera o gráfico do Pacman (Snake) na pasta "dist"
       - name: Generate Pacman Game
         uses: Platane/snk@v3
         id: snake-gif
@@ -24,11 +24,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Envia as imagens geradas para a branch pacman-output
-      - name: Deploy to GitHub Pages
-        uses: CrazyMax/ghaction-github-pages@v3
+      # Passo 3: Envia a pasta dist para a branch pacman-output (Usando a Action Oficial do GitHub)
+      - name: Deploy to GitHub Pages Branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: pacman-output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: pacman-output # A branch para onde vão os SVGs
+          folder: dist # A pasta onde as imagens foram geradas
