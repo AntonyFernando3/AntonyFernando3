@@ -122,13 +122,16 @@ Bootcamp de Educação Financeira C6 Bank Institute - Instituto Proa <br>
 Introdução Prática ao Figma - Digital Innovation One <br>
 
 ###
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/AntonyFernando3/AntonyFernando3/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=true&order=1" height="168" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/AntonyFernando3/AntonyFernando3/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=default&hide_border=true&order=2&custom_title=Linguagens%20de%20Programa%C3%A7%C3%A3o" height="158" alt="languages graph"  />
 </div>
 
 ###
+
 <br clear="both">
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonyFernando3/AntonyFernando3/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonyFernando3/AntonyFernando3/pacman-output/pacman-contribution-graph.svg?game=pacman">
@@ -136,6 +139,7 @@ Introdução Prática ao Figma - Digital Innovation One <br>
 </picture>
 
 ###
+
 
 <p data-importer="text" align="left"></p>
 <div data-importer="socials" align="center">
